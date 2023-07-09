@@ -1,81 +1,81 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 body {
-    padding: 50px;
-    background-image: url(icon/sasqs.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    font-family: 'Poppins', sans-serif;
+  padding: 50px;
+  background-image: url(icon/sasqs.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
 }
 
 ul {
-    padding-left: 0;
+  padding-left: 0;
 }
 
 li {
-    list-style: none;
-    display: inline-block;
+  list-style: none;
+  display: inline-block;
 }
 
 .main {
-    max-width: 800px;
-    height: auto;
-    background-color: #fafafa;
-    margin: 0 auto;
-    padding: 20px;
-    border-radius: 10px;
-    border: 1px solid #eeeeee;
+  max-width: 800px;
+  height: auto;
+  background-color: #fafafa;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #eeeeee;
 }
 
 .img {
-    background-image: url(icon/WhatsApp%20Image%202023-07-04%20at%2004.54.04.jpeg);
-    background-color: #eaeaea;
-    background-size: cover;
-    border-radius: 100px;
-    width: 150px;
-    height: 150px;
-    margin: 0 auto;
-    border: 1px solid #eaeaea;
+  background-image: url(icon/WhatsApp%20Image%202023-07-04%20at%2004.54.04.jpeg);
+  background-color: #eaeaea;
+  background-size: cover;
+  border-radius: 100px;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border: 1px solid #eaeaea;
 }
 
 h1 {
-    font-size: 30px;
-    margin: 0;
-    font-weight: bold;
-    color: #000000;
+  font-size: 30px;
+  margin: 0;
+  font-weight: bold;
+  color: #000000;
 }
 
 .text {
-    font-size: 15px;
-    margin: 0;
-    color: #324e63;
+  font-size: 15px;
+  margin: 0;
+  color: #324e63;
 }
 
 p {
-    margin: 0 auto;
-    padding-top: 20px;
-    max-width: 450px;
-    color: #324e63;
+  margin: 0 auto;
+  padding-top: 20px;
+  max-width: 450px;
+  color: #324e63;
 }
 
-/* Penambahan kode untuk latar belakang berukuran penuh */
-html, body {
-    height: 100%;
+html,
+body {
+  height: 100%;
 }
 
 body {
-    margin: 0;
+  margin: 0;
 }
 
 .background-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    background-image: url(icon/sasqs.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url(icon/sasqs.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
