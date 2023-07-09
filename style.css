@@ -79,16 +79,3 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-/* Media queries untuk tampilan pada handphone */
-@media (max-width: 767px) {
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-    }
-    .main {
-        margin: 20px;
-    }
-}
